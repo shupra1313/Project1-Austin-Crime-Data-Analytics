@@ -37,7 +37,7 @@ Python’s data evaluation and visualization packages, which includes:
 * The crime counts and rates represented on the graphs cover the period of 2014 to 2016.
 * The crime rates are calculated per 100,000 residents of the City of Austin.
 
-INFERENCES
+### INFERENCES
 
  It can be deduced from the graphs that certain months of the year (mostly,from april to August) were more prone to crimes. 
  The data for nearly all types of crimes show a decrease between September to March but the seasonal spikes in summer (April to August) remain. 
