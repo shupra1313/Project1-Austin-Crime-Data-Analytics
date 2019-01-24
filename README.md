@@ -33,6 +33,9 @@ Python’s data evaluation and visualization packages, which includes:
 
 * Pie charts were plotted for all three years (2014-2016) individually to display the break up of each crime percentage 
   in Austin.
+
+![Screenshot](images/linechart_month_2016.png) 
+
 * Line graph plotting of crime rates (per 100,000 inhabitants) for each month of the year(from 2014-2016) was performed. 
 * To make it easier to understand how the five crime types have changed over time in relation to each other, individual 
   line plots for each offense type were created characterized by months of the year. These line graphs show the trending 
