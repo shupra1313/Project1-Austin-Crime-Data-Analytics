@@ -1,5 +1,7 @@
 ## AUSTIN CRIME DATA ANALYSIS
 
+![Screenshot](images/crime-stats.jpg) 
+
 ### PURPOSE OF THE STUDY
 * Analyze data to identify trends in crime across the City of Austin over the years (from 2014 to 2016).
 * To determine a comparison of the crime rate with respect to the area of occurrence (districts) and time of the year (months).
