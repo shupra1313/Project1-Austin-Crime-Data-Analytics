@@ -28,6 +28,9 @@ Python’s data evaluation and visualization packages, which includes:
   reordering columns, changing the time format and aggregating similar crime types.
 
 ### DATA VISUALIZATIONS
+
+![Screenshot](images/piechart_2016.png) 
+
 * Pie charts were plotted for all three years (2014-2016) individually to display the break up of each crime percentage 
   in Austin.
 * Line graph plotting of crime rates (per 100,000 inhabitants) for each month of the year(from 2014-2016) was performed. 
